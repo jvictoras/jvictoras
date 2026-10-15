@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvictoras&show_icons=true&theme=tokyonight)
 
-### • 👨‍💻 _Linguagens e Tecnologias:_
+### • 💻​ Tecnologias:
 <div style="display: inline-block;">
   <br>
   <img align="center" alt="Java" height="50" width="50" src="https://imgs.search.brave.com/b924bCoYpD-NVj88yfyFxGUXzt5Q-85l3_Sl6ACK93U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL0phdmEuc3Zn" title="java">
