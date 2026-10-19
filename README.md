@@ -1,7 +1,8 @@
 ## Oi, me chamo João Victor Almeida Silva!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvictoras&show_icons=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjonnas-67&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvictoras&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvictoras&layout=compact&theme=radical)
+ 
 
 ### • 💻​ Tecnologias:
 <div style="display: inline-block;">
